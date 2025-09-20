@@ -3,8 +3,6 @@
 This project is a **C++ implementation of Merge Sort** for managing hospital patient records.  
 Instead of using a fixed array, the program now allows the **user to enter any number of patient IDs** and sorts them efficiently.
 
----
-
 ## Problem Statement
 
 A hospital needs to organize patient records quickly for quality healthcare delivery.  
@@ -12,15 +10,11 @@ Each patient is assigned a unique **patient ID**, and these IDs must be sorted f
 
 This program applies the **Merge Sort algorithm** (Divide and Conquer strategy) to sort the IDs.
 
----
-
 ## Features
 - User can specify how many patients they want to enter.
 - Works with any number of patient IDs.
 - Uses **Merge Sort** with `O(n log n)` complexity.
 - Well-documented and beginner-friendly code with comments.
-
----
 
 ## How It Works
 
