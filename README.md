@@ -31,7 +31,7 @@ This program applies the **Merge Sort algorithm** (Divide and Conquer strategy) 
    ```
 
 2. Run the program:
-```C
+   ```C
    ./hospital_sort //for Linux / macOS
     hospital_sort.exe //for Windows
-```
+   ```
