@@ -28,9 +28,3 @@ This program applies the **Merge Sort algorithm** (Divide and Conquer strategy) 
 1. **Divide** → Split the array into halves recursively until each subarray has 1 element.  
 2. **Conquer** → Sort the subarrays recursively.  
 3. **Combine** → Merge the sorted subarrays into a single sorted list.  
-
----
-
-## ▶️ Example Usage
-
-### Input
