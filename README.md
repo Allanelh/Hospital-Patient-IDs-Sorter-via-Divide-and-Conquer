@@ -28,3 +28,16 @@ This program applies the **Merge Sort algorithm** (Divide and Conquer strategy) 
 1. **Divide** → Split the array into halves recursively until each subarray has 1 element.  
 2. **Conquer** → Sort the subarrays recursively.  
 3. **Combine** → Merge the sorted subarrays into a single sorted list.  
+
+## Running the Program
+1. Compile the program:
+   ```C
+   cd hospital_sort
+   g++ main.cpp -o hospital_sort
+   ```
+
+2. Run the program:
+```C
+   ./hospital_sort //for Linux / macOS
+    hospital_sort.exe //for Windows
+```
