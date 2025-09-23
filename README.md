@@ -35,3 +35,8 @@ This program applies the **Merge Sort algorithm** (Divide and Conquer strategy) 
    ./hospital_sort //for Linux / macOS
     hospital_sort.exe //for Windows
    ```
+3. Provide the number of patient IDs to be sorted.
+
+4. Input the IDs.
+
+5. The program will output the original patient IDs as well as the sorted IDs.
